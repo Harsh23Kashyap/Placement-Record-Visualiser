@@ -21,4 +21,3 @@ Attaching Screenshots for basic understanding of how the projects looks and work
 ![How it looks](https://github.com/Harsh23Kashyap/Data-Visualisation/blob/main/Dashboard/Screenshot%202022-02-21%20at%2010.44.36%20AM.png)
 ![How it looks](https://github.com/Harsh23Kashyap/Placement-Record-Visualiser/blob/main/Screen%20Shot%202022-08-05%20at%2012.01.03%20PM.png)
 ![How it looks](https://github.com/Harsh23Kashyap/Placement-Record-Visualiser/blob/main/Screen%20Shot%202022-08-05%20at%2012.01.09%20PM.png)
-![How it looks](https://github.com/Harsh23Kashyap/Data-Visualisation/blob/main/Dashboard/Screenshot%202022-02-21%20at%2010.44.59%20AM.png)
